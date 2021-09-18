@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @miguelangellus
+- 👋 Hi everyone, I’m @miguelangellus
 - 👀 I’m interested in learning Python
 - 🌱 I’m currently learning several manners of coding in Python
 - 💞️ I’m looking to collaborate on other projects
